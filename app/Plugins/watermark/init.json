@@ -1,0 +1,10 @@
+{
+    "name": "watermark",
+    "version": "1.5",
+    "display_name": "Watermark",
+    "description": "Watermark for ads pictures",
+    "author": "Bedigit",
+    "category": "tool",
+    "has_installer": true,
+    "item_id": "19700729"
+}

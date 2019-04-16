@@ -1,0 +1,41 @@
+/*
+ * LaraClassified - Geo Classified Ads CMS
+ * Copyright (c) BedigitCom. All Rights Reserved
+ *
+ * Website: http://www.bedigit.com
+ *
+ * LICENSE
+ * -------
+ * This software is furnished under a license and may be used and copied
+ * only in accordance with the terms of such license and with the inclusion
+ * of the above copyright notice. If you Purchased from Codecanyon,
+ * Please read the full License from here - http://codecanyon.net/licenses/standard
+ */
+
+/* Your custom CSS here... */
+.btn-add-listing{
+    background-image: linear-gradient(to bottom,#B1171E 0,#E1171E 100%) !important;
+    border-color: #B1171E !important;
+}
+.btn-add-listing:hover{
+    background-image: linear-gradient(to bottom,#E1171E 0,#E1171E 100%) !important;
+    border-color: #B1171E !important;
+}
+.wide-intro p {
+    color: #B1171E !important;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size:22px;
+}
+
+@media only screen and (max-width: 767px)
+{
+  .main-logo{
+    width:100%;
+    height:auto !important;
+    margin-top:5px !important;
+  }
+  .logo-title{
+    width:60% !important;
+  }
+}

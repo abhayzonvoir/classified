@@ -1,0 +1,1555 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Enjoy 1.0\n"
+"POT-Creation-Date: 2017-03-06 13:36+0700\n"
+"PO-Revision-Date: 2016-06-13 16:42+0700\n"
+"Last-Translator: linhnguyen <ariannatheme.team@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;_x\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../404.php:13
+msgid "404"
+msgstr ""
+
+#: ../404.php:16
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"Oops! The page you were looking for was not found. Perhaps searching can "
+"help."
+msgstr ""
+
+#: ../404.php:28
+msgid "Back to Homepage"
+msgstr ""
+
+#: ../archive.php:32
+msgid "Image "
+msgstr ""
+
+#: ../archive.php:34
+msgid "Gallery "
+msgstr ""
+
+#: ../archive.php:36
+msgid "Video "
+msgstr ""
+
+#: ../archive.php:38
+msgid "Audio "
+msgstr ""
+
+#: ../archive.php:42
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:44
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:48
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:116 ../author.php:87 ../blog.php:92 ../category.php:100
+msgid "No post to display"
+msgstr ""
+
+#: ../blog.php:27
+msgid "Blog"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:75 ../comments.php:91
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:63 ../comments.php:77
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: ../comments.php:66 ../comments.php:80
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:67 ../comments.php:81
+msgid "Email*"
+msgstr ""
+
+#: ../comments.php:69 ../comments.php:84
+msgid "Send"
+msgstr ""
+
+#: ../comments.php:71 ../comments.php:86
+msgid "Write your comment here"
+msgstr ""
+
+#: ../comments.php:82 ../library/core.php:788
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:14
+msgid "ReduxFramework"
+msgstr ""
+
+#: ../functions.php:19
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:24
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:29
+msgid "Woocommerce"
+msgstr ""
+
+#: ../functions.php:34
+msgid "WooSidebars"
+msgstr ""
+
+#: ../functions.php:39
+msgid "Taxonomy Meta"
+msgstr ""
+
+#: ../functions.php:44
+msgid "Arianna User El"
+msgstr ""
+
+#: ../functions.php:45
+msgid "arianna-user-el"
+msgstr ""
+
+#: ../functions.php:64 ../library/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:65 ../library/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:66 ../library/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:67 ../library/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:78 ../library/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:79 ../library/class-tgm-plugin-activation.php:394
+#: ../library/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:102
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: ../functions.php:144
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: ../functions.php:285
+msgid "Home Full-width Section Top"
+msgstr ""
+
+#: ../functions.php:291
+msgid ""
+"Full-width section under main navigation of Homepage template. Drag [Full-"
+"width module] here like Module Grid etc."
+msgstr ""
+
+#: ../functions.php:295
+msgid "Home Content Section"
+msgstr ""
+
+#: ../functions.php:301
+msgid ""
+"Content section of Homepage template. Drag [Content module] here like Module "
+"Posts One etc."
+msgstr ""
+
+#: ../functions.php:305
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../functions.php:311
+msgid ""
+"Sidebar of Homepage template. Drag [Sidebar widget] here like Widget Tabs "
+"etc."
+msgstr ""
+
+#: ../functions.php:315
+msgid "Home Full-width Section Bottom"
+msgstr ""
+
+#: ../functions.php:321
+msgid ""
+"Full-width section above footer of Homepage template. Drag [Full-width "
+"module] here like Module Grid etc."
+msgstr ""
+
+#: ../functions.php:325
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:331
+msgid "Sidebar of all other pages excluding Homepage template."
+msgstr ""
+
+#: ../functions.php:335
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:388
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:389
+msgid "Footer Menu"
+msgstr ""
+
+#: ../index.php:14
+msgid "Latest Articles"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:393
+#: ../library/class-tgm-plugin-activation.php:918
+#: ../library/class-tgm-plugin-activation.php:2624
+#: ../library/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:606
+msgid "Update Required"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:723
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:1025
+#: ../library/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2433
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2573
+msgid "unknown"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3600
+#: ../library/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3600
+#: ../library/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../library/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/core.php:571
+#, php-format
+msgid "View all posts tagged %s"
+msgstr ""
+
+#: ../library/core.php:588
+msgid "Previous Article"
+msgstr ""
+
+#: ../library/core.php:598
+msgid "Next Article"
+msgstr ""
+
+#: ../library/core.php:668
+msgid "Related Posts"
+msgstr ""
+
+#: ../library/core.php:787
+msgid "Email"
+msgstr ""
+
+#: ../library/core.php:789
+msgid "Twitter"
+msgstr ""
+
+#: ../library/core.php:790
+msgid "Google+"
+msgstr ""
+
+#: ../library/core.php:791
+msgid "Facebook"
+msgstr ""
+
+#: ../library/core.php:792
+msgid "Youtube"
+msgstr ""
+
+#: ../library/core.php:815
+msgid "j F, Y \\a\\t H:i"
+msgstr ""
+
+#: ../library/core.php:818
+msgid "Edit"
+msgstr ""
+
+#: ../library/core.php:828
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../library/core.php:907
+msgid "Overall Score"
+msgstr ""
+
+#: ../library/core.php:1110
+msgid "please put youtube or vimeo video link to the video post format section"
+msgstr ""
+
+#: ../library/core.php:1237
+msgid "Nothing to search for"
+msgstr ""
+
+#: ../library/core.php:1292
+msgid "No images found"
+msgstr ""
+
+#: ../library/core.php:1503 ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../library/core.php:1672
+msgid "More"
+msgstr ""
+
+#: ../library/core.php:1673
+msgid "No More Posts"
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../library/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../library/mega_menu.php:157
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../library/mega_menu.php:161
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../library/mega_menu.php:174
+msgid "sub item"
+msgstr ""
+
+#: ../library/mega_menu.php:206
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../library/mega_menu.php:215
+msgid "URL"
+msgstr ""
+
+#: ../library/mega_menu.php:222
+msgid "Navigation Label"
+msgstr ""
+
+#: ../library/mega_menu.php:228
+msgid "Title Attribute"
+msgstr ""
+
+#: ../library/mega_menu.php:235
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../library/mega_menu.php:240
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../library/mega_menu.php:246
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../library/mega_menu.php:258
+msgid "Description"
+msgstr ""
+
+#: ../library/mega_menu.php:261
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../library/mega_menu.php:266
+msgid "Move"
+msgstr ""
+
+#: ../library/mega_menu.php:267
+msgid "Up one"
+msgstr ""
+
+#: ../library/mega_menu.php:268
+msgid "Down one"
+msgstr ""
+
+#: ../library/mega_menu.php:271
+msgid "To the top"
+msgstr ""
+
+#: ../library/mega_menu.php:278
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../library/mega_menu.php:291
+msgid "Remove"
+msgstr ""
+
+#: ../library/mega_menu.php:292
+msgid "Cancel"
+msgstr ""
+
+#: ../library/meta_box_config.php:17
+msgid "Arianna Post Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:25
+msgid "Post Layout Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:26
+msgid "Setup Post Layout"
+msgstr ""
+
+#: ../library/meta_box_config.php:29
+msgid "Standard"
+msgstr ""
+
+#: ../library/meta_box_config.php:30
+msgid "Feature Image Full Width"
+msgstr ""
+
+#: ../library/meta_box_config.php:31
+msgid "No Sidebar"
+msgstr ""
+
+#: ../library/meta_box_config.php:42
+msgid "Arianna Page Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:50
+msgid "Make this page full-width"
+msgstr ""
+
+#: ../library/meta_box_config.php:60
+msgid "Arianna Post Format Options"
+msgstr ""
+
+#: ../library/meta_box_config.php:67
+msgid "Format Options: Video, Audio"
+msgstr ""
+
+#: ../library/meta_box_config.php:68
+msgid "Support Youtube, Vimeo, SoundCloud, DailyMotion, ... iframe embed code"
+msgstr ""
+
+#: ../library/meta_box_config.php:71
+msgid "Link ..."
+msgstr ""
+
+#: ../library/meta_box_config.php:76
+msgid "Format Options: Image"
+msgstr ""
+
+#: ../library/meta_box_config.php:77
+msgid "Image Upload"
+msgstr ""
+
+#: ../library/meta_box_config.php:84
+msgid "Format Options: Gallery"
+msgstr ""
+
+#: ../library/meta_box_config.php:85
+msgid "Gallery Images"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:31
+msgid "Arianna Category Options"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:38
+msgid "Category layout"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:41
+msgid "Global setting"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:41 ../library/theme-option.php:563
+#: ../library/theme-option.php:571 ../library/theme-option.php:580
+#: ../library/theme-option.php:589 ../library/theme-option.php:598
+msgid "Large Blog Big"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:41 ../library/theme-option.php:563
+#: ../library/theme-option.php:571 ../library/theme-option.php:580
+#: ../library/theme-option.php:589 ../library/theme-option.php:598
+msgid "Large Blog Small"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:41 ../library/theme-option.php:563
+#: ../library/theme-option.php:571 ../library/theme-option.php:580
+#: ../library/theme-option.php:589 ../library/theme-option.php:598
+msgid "Classic Blog Big"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:41 ../library/theme-option.php:563
+#: ../library/theme-option.php:571 ../library/theme-option.php:580
+#: ../library/theme-option.php:589 ../library/theme-option.php:598
+msgid "Classic Blog Small"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:42 ../library/theme-option.php:564
+#: ../library/theme-option.php:572 ../library/theme-option.php:581
+#: ../library/theme-option.php:590 ../library/theme-option.php:599
+msgid "Masonry Big"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:42 ../library/theme-option.php:564
+#: ../library/theme-option.php:572 ../library/theme-option.php:581
+#: ../library/theme-option.php:590 ../library/theme-option.php:599
+msgid "Masonry Small"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:44
+msgid "Global setting option is set in Theme Option panel"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:48
+msgid "Display featured slider"
+msgstr ""
+
+#: ../library/theme-option.php:131
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../library/theme-option.php:150
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../library/theme-option.php:151
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../library/theme-option.php:152
+msgid "Tags"
+msgstr ""
+
+#: ../library/theme-option.php:156
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../library/theme-option.php:157
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../library/theme-option.php:176
+msgid "General Settings"
+msgstr ""
+
+#: ../library/theme-option.php:181
+msgid "Primary color"
+msgstr ""
+
+#: ../library/theme-option.php:182
+msgid "Pick a primary color for the theme."
+msgstr ""
+
+#: ../library/theme-option.php:189
+msgid "Page color"
+msgstr ""
+
+#: ../library/theme-option.php:190
+msgid "Pick a color for the page."
+msgstr ""
+
+#: ../library/theme-option.php:198
+msgid "Site Layout"
+msgstr ""
+
+#: ../library/theme-option.php:203
+msgid "Site layout"
+msgstr ""
+
+#: ../library/theme-option.php:204
+msgid "Choose between wide and boxed layout"
+msgstr ""
+
+#: ../library/theme-option.php:205
+msgid "Wide"
+msgstr ""
+
+#: ../library/theme-option.php:205
+msgid "Boxed"
+msgstr ""
+
+#: ../library/theme-option.php:213
+msgid "Site background"
+msgstr ""
+
+#: ../library/theme-option.php:214
+msgid "Choose background image or background color for boxed layout"
+msgstr ""
+
+#: ../library/theme-option.php:219
+msgid "Enable responsive"
+msgstr ""
+
+#: ../library/theme-option.php:220
+msgid "Enable responsive layout"
+msgstr ""
+
+#: ../library/theme-option.php:222 ../library/theme-option.php:231
+#: ../library/theme-option.php:254 ../library/theme-option.php:274
+#: ../library/theme-option.php:306 ../library/theme-option.php:336
+#: ../library/theme-option.php:368 ../library/theme-option.php:503
+#: ../library/theme-option.php:511 ../library/theme-option.php:519
+#: ../library/theme-option.php:527 ../library/theme-option.php:549
+#: ../library/theme-option.php:621 ../library/theme-option.php:630
+#: ../library/theme-option.php:644 ../library/theme-option.php:652
+#: ../library/theme-option.php:660 ../library/theme-option.php:668
+#: ../library/theme-option.php:676 ../library/theme-option.php:690
+#: ../library/theme-option.php:699 ../library/theme-option.php:708
+#: ../library/theme-option.php:717
+msgid "Enabled"
+msgstr ""
+
+#: ../library/theme-option.php:223 ../library/theme-option.php:232
+#: ../library/theme-option.php:255 ../library/theme-option.php:275
+#: ../library/theme-option.php:307 ../library/theme-option.php:337
+#: ../library/theme-option.php:369 ../library/theme-option.php:504
+#: ../library/theme-option.php:512 ../library/theme-option.php:520
+#: ../library/theme-option.php:528 ../library/theme-option.php:550
+#: ../library/theme-option.php:622 ../library/theme-option.php:631
+#: ../library/theme-option.php:645 ../library/theme-option.php:653
+#: ../library/theme-option.php:661 ../library/theme-option.php:669
+#: ../library/theme-option.php:677 ../library/theme-option.php:691
+#: ../library/theme-option.php:700 ../library/theme-option.php:709
+#: ../library/theme-option.php:718
+msgid "Disabled"
+msgstr ""
+
+#: ../library/theme-option.php:228
+msgid "Enable sidebar in responsive layout"
+msgstr ""
+
+#: ../library/theme-option.php:229
+msgid "Choose to display or hide sidebar in responsive layout"
+msgstr ""
+
+#: ../library/theme-option.php:238
+msgid "Header Settings"
+msgstr ""
+
+#: ../library/theme-option.php:244
+msgid "Site logo"
+msgstr ""
+
+#: ../library/theme-option.php:245
+msgid "Upload logo of your site that is displayed in header"
+msgstr ""
+
+#: ../library/theme-option.php:246
+msgid "No media selected"
+msgstr ""
+
+#: ../library/theme-option.php:251
+msgid "Enable Header Social Items and Search"
+msgstr ""
+
+#: ../library/theme-option.php:252
+msgid "Enable social icons and Search in top-bar"
+msgstr ""
+
+#: ../library/theme-option.php:261
+msgid "Social media"
+msgstr ""
+
+#: ../library/theme-option.php:262
+msgid "Set up social links for site"
+msgstr ""
+
+#: ../library/theme-option.php:272
+msgid "Enable Header Search"
+msgstr ""
+
+#: ../library/theme-option.php:281
+msgid "Header background"
+msgstr ""
+
+#: ../library/theme-option.php:282
+msgid "Choose background image or background color for site header"
+msgstr ""
+
+#: ../library/theme-option.php:287
+msgid "Header layout"
+msgstr ""
+
+#: ../library/theme-option.php:288
+msgid "Choose site header layout"
+msgstr ""
+
+#: ../library/theme-option.php:289 ../library/theme-option.php:557
+msgid "Left"
+msgstr ""
+
+#: ../library/theme-option.php:289
+msgid "Center"
+msgstr ""
+
+#: ../library/theme-option.php:295
+msgid "Enable fixed header menu"
+msgstr ""
+
+#: ../library/theme-option.php:296
+msgid "Choose between fixed and static header navigation"
+msgstr ""
+
+#: ../library/theme-option.php:297
+msgid "Static"
+msgstr ""
+
+#: ../library/theme-option.php:297
+msgid "Fixed"
+msgstr ""
+
+#: ../library/theme-option.php:303
+msgid "Enable header banner"
+msgstr ""
+
+#: ../library/theme-option.php:304
+msgid "Enable banner in header"
+msgstr ""
+
+#: ../library/theme-option.php:313
+msgid "Header banner"
+msgstr ""
+
+#: ../library/theme-option.php:314
+msgid "Set up banner displays in header"
+msgstr ""
+
+#: ../library/theme-option.php:315
+msgid "Image URL"
+msgstr ""
+
+#: ../library/theme-option.php:315
+msgid "Link URL"
+msgstr ""
+
+#: ../library/theme-option.php:321
+msgid "Google Adsense Code"
+msgstr ""
+
+#: ../library/theme-option.php:329
+msgid "Footer Settings"
+msgstr ""
+
+#: ../library/theme-option.php:334
+msgid "Footer Instagram"
+msgstr ""
+
+#: ../library/theme-option.php:341
+msgid "Footer Instagram Setting"
+msgstr ""
+
+#: ../library/theme-option.php:349
+msgid "Instagram Section Title"
+msgstr ""
+
+#: ../library/theme-option.php:354
+msgid "Instagram Username"
+msgstr ""
+
+#: ../library/theme-option.php:365
+msgid "Scroll top button"
+msgstr ""
+
+#: ../library/theme-option.php:366
+msgid "Show scroll to top button in right lower corner of window"
+msgstr ""
+
+#: ../library/theme-option.php:374
+msgid "Copyright text - HTML Validated"
+msgstr ""
+
+#: ../library/theme-option.php:375
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../library/theme-option.php:383
+msgid "Typography"
+msgstr ""
+
+#: ../library/theme-option.php:390
+msgid "Navigation font"
+msgstr ""
+
+#: ../library/theme-option.php:398
+msgid "Font options for menu, category title and module title"
+msgstr ""
+
+#: ../library/theme-option.php:409
+msgid "Post Meta font"
+msgstr ""
+
+#: ../library/theme-option.php:417 ../library/theme-option.php:438
+msgid "Font options for title of posts"
+msgstr ""
+
+#: ../library/theme-option.php:430
+msgid "Post title font"
+msgstr ""
+
+#: ../library/theme-option.php:449
+msgid "Module title font"
+msgstr ""
+
+#: ../library/theme-option.php:457
+msgid "Font options for title of Modules"
+msgstr ""
+
+#: ../library/theme-option.php:470
+msgid "Text font"
+msgstr ""
+
+#: ../library/theme-option.php:478
+msgid "Font options for text body"
+msgstr ""
+
+#: ../library/theme-option.php:489
+msgid "Post Settings"
+msgstr ""
+
+#: ../library/theme-option.php:493
+msgid "Post meta"
+msgstr ""
+
+#: ../library/theme-option.php:494
+msgid "Options for displaying post meta in modules and widgets"
+msgstr ""
+
+#: ../library/theme-option.php:501
+msgid "Enable post meta review score"
+msgstr ""
+
+#: ../library/theme-option.php:509
+msgid "Enable post meta author"
+msgstr ""
+
+#: ../library/theme-option.php:517
+msgid "Enable post meta date"
+msgstr ""
+
+#: ../library/theme-option.php:525
+msgid "Enable post meta comments"
+msgstr ""
+
+#: ../library/theme-option.php:540 ../library/theme-option.php:541
+msgid "Pages Setting"
+msgstr ""
+
+#: ../library/theme-option.php:542
+msgid "Setting layout for pages"
+msgstr ""
+
+#: ../library/theme-option.php:547
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:555
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../library/theme-option.php:557
+msgid "Right"
+msgstr ""
+
+#: ../library/theme-option.php:562
+msgid "Blog page layout"
+msgstr ""
+
+#: ../library/theme-option.php:570
+msgid "Author page layout"
+msgstr ""
+
+#: ../library/theme-option.php:578
+msgid "Category page layout"
+msgstr ""
+
+#: ../library/theme-option.php:579
+msgid ""
+"Global setting for layout of category archive page, will be overridden by "
+"layout option in category edit page."
+msgstr ""
+
+#: ../library/theme-option.php:587
+msgid "Archive page layout"
+msgstr ""
+
+#: ../library/theme-option.php:588
+msgid "Layout for Archive page and Tag archive."
+msgstr ""
+
+#: ../library/theme-option.php:596
+msgid "Search page layout"
+msgstr ""
+
+#: ../library/theme-option.php:597
+msgid "Layout for Search page"
+msgstr ""
+
+#: ../library/theme-option.php:605
+msgid "Remove Pages in Search Result"
+msgstr ""
+
+#: ../library/theme-option.php:606
+msgid "yes"
+msgstr ""
+
+#: ../library/theme-option.php:606
+msgid "no"
+msgstr ""
+
+#: ../library/theme-option.php:613
+msgid "Single Settings"
+msgstr ""
+
+#: ../library/theme-option.php:618
+msgid "Enable featured image"
+msgstr ""
+
+#: ../library/theme-option.php:619
+msgid "Enable featured image in single post"
+msgstr ""
+
+#: ../library/theme-option.php:627
+msgid "Enable share box"
+msgstr ""
+
+#: ../library/theme-option.php:628
+msgid "Enable share links below single post"
+msgstr ""
+
+#: ../library/theme-option.php:642
+msgid "Enable Facebook share link"
+msgstr ""
+
+#: ../library/theme-option.php:650
+msgid "Enable Twitter share link"
+msgstr ""
+
+#: ../library/theme-option.php:658
+msgid "Enable Google+ share link"
+msgstr ""
+
+#: ../library/theme-option.php:666
+msgid "Enable Pinterest share link"
+msgstr ""
+
+#: ../library/theme-option.php:674
+msgid "Enable Linkedin share link"
+msgstr ""
+
+#: ../library/theme-option.php:687
+msgid "Enable author box"
+msgstr ""
+
+#: ../library/theme-option.php:688
+msgid "Enable author information below single post"
+msgstr ""
+
+#: ../library/theme-option.php:696
+msgid "Enable post navigation"
+msgstr ""
+
+#: ../library/theme-option.php:697
+msgid "Enable post navigation below single post"
+msgstr ""
+
+#: ../library/theme-option.php:705
+msgid "Enable related posts"
+msgstr ""
+
+#: ../library/theme-option.php:706
+msgid "Enable related posts below single post"
+msgstr ""
+
+#: ../library/theme-option.php:714
+msgid "Enable comment section"
+msgstr ""
+
+#: ../library/theme-option.php:715
+msgid "Enable comment section below single post"
+msgstr ""
+
+#: ../library/theme-option.php:724
+msgid "Custom CSS"
+msgstr ""
+
+#: ../library/theme-option.php:729
+msgid "CSS Code"
+msgstr ""
+
+#: ../library/theme-option.php:730
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../library/theme-option.php:740
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:741
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:742
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:746
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:756
+msgid "Theme Information"
+msgstr ""
+
+#: ../library/theme-option.php:806 ../library/theme-option.php:807
+msgid "Theme Options"
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../widgets/module_carousel.php:33
+msgid "[Full-width module] Display a carousel in full-width section."
+msgstr ""
+
+#: ../widgets/module_carousel.php:36
+msgid "*arianna: Module Carousel"
+msgstr ""
+
+#: ../widgets/module_classic_blog.php:33
+msgid ""
+"[Full-width module][Content module] Displays latest posts in classic blog "
+"layout in content section."
+msgstr ""
+
+#: ../widgets/module_classic_blog.php:36
+msgid "*arianna: Module Classic Blog"
+msgstr ""
+
+#: ../widgets/module_grid.php:33
+msgid "[Full-width module] Displays grid module in full-width section."
+msgstr ""
+
+#: ../widgets/module_grid.php:36
+msgid "*arianna: Module Main Grid"
+msgstr ""
+
+#: ../widgets/module_large_blog.php:33
+msgid ""
+"[Full-width module][Content module] Displays latest posts in large blog "
+"layout in content section."
+msgstr ""
+
+#: ../widgets/module_large_blog.php:36
+msgid "*arianna: Module Large Blog"
+msgstr ""
+
+#: ../widgets/module_large_blog_2_col.php:33
+msgid ""
+"[Full-width module] Displays latest posts in large blog layout in content "
+"section."
+msgstr ""
+
+#: ../widgets/module_large_blog_2_col.php:36
+msgid "*arianna: Module Large Blog 2 Columns"
+msgstr ""
+
+#: ../widgets/module_main_slider.php:33
+msgid ""
+"[Full-width module][Content module] Displays slider module in full-width or "
+"content section."
+msgstr ""
+
+#: ../widgets/module_main_slider.php:36
+msgid "*arianna: Module Slider"
+msgstr ""
+
+#: ../widgets/module_masonry.php:33
+msgid ""
+"[Full-width module][Content module] Displays posts with masonry layout in "
+"content section."
+msgstr ""
+
+#: ../widgets/module_masonry.php:36
+msgid "*arianna: Module Masonry"
+msgstr ""
+
+#: ../widgets/widget_ads.php:27
+msgid "Displays Ads in any section."
+msgstr ""
+
+#: ../widgets/widget_ads.php:30
+msgid "*arianna: Widget Ads"
+msgstr ""
+
+#: ../widgets/widget_ads.php:62
+msgid "Ads"
+msgstr ""
+
+#: ../widgets/widget_ads.php:70 ../widgets/widget_social.php:144
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget_ads.php:76
+msgid "Ads Image Url:"
+msgstr ""
+
+#: ../widgets/widget_ads.php:82
+msgid "Link Url:"
+msgstr ""
+
+#: ../widgets/widget_audio.php:33
+msgid "[Sidebar widget] Displays a List of Audio Posts in sidebar."
+msgstr ""
+
+#: ../widgets/widget_audio.php:36
+msgid "*arianna: Widget Audio"
+msgstr ""
+
+#: ../widgets/widget_posts_list.php:33
+msgid "[Sidebar widget] Displays a List of Posts in sidebar."
+msgstr ""
+
+#: ../widgets/widget_posts_list.php:36
+msgid "*arianna: Widget Posts List"
+msgstr ""
+
+#: ../widgets/widget_slider.php:33
+msgid "[Sidebar widget] Displays a slider in sidebar."
+msgstr ""
+
+#: ../widgets/widget_slider.php:36
+msgid "*arianna: Widget Slider"
+msgstr ""
+
+#: ../widgets/widget_social.php:27
+msgid "Displays social widget in sidebar or footer."
+msgstr ""
+
+#: ../widgets/widget_social.php:30
+msgid "*arianna: Widget Social"
+msgstr ""
+
+#: ../widgets/widget_social.php:126
+msgid "Follow us"
+msgstr ""
+
+#: ../widgets/widget_social.php:150
+msgid "Facebook Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:156
+msgid "Twitter Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:162
+msgid "Google Plus Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:168
+msgid "Linkedin Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:174
+msgid "Pinterest Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:180
+msgid "Instagram Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:186
+msgid "Dribbble Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:192
+msgid "Youtube Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:198
+msgid "Vimeo Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:204
+msgid "VKontakte Url:"
+msgstr ""
+
+#: ../widgets/widget_social.php:210
+msgid "RSS Url:"
+msgstr ""
+
+#: ../widgets/widget_video.php:33
+msgid "[Sidebar widget] Displays a video post list slider in sidebar."
+msgstr ""
+
+#: ../widgets/widget_video.php:36
+msgid "*arianna: Widget Video"
+msgstr ""
